@@ -1,4 +1,4 @@
-# hypothesis_test_taxi
+# hypothesis_testing_taxi_ridings
 Taxi riders seem to take longer trips during rainy and stormy days. 
 And certain spots in the city seem to be hit more by cab passengers. 
 Also, several taxi companies are making far way better trips than any other companies.
